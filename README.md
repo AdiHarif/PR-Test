@@ -1,1 +1,2 @@
-"Hello, Jonathan!\nnew line" 
+Hello, Jonathan!
+new line 
